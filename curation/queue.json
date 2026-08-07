@@ -1,0 +1,21 @@
+{
+ "unresolved_files": 1,
+ "unresolved_requests": 1,
+ "rows_affected": 12345,
+ "requests": {
+  "TEST-SYNTHETIC-FIXTURE-DELETE-ME": [
+   {
+    "source_file": "/x/TEST-SYNTHETIC-FIXTURE-DELETE-ME/a.csv",
+    "request_slug": "TEST-SYNTHETIC-FIXTURE-DELETE-ME",
+    "file_name": "a.csv",
+    "current_owner": "PD",
+    "foia_url": "https://www.muckrock.com/foi/example-1/",
+    "rows": 12345,
+    "first_search": "2025-01-01",
+    "last_search": "2025-06-01",
+    "searching_agencies": 3,
+    "question": "Which agency's CAMERAS were searched?"
+   }
+  ]
+ }
+}
