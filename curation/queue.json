@@ -1,0 +1,57 @@
+{
+ "unresolved_files": 4,
+ "unresolved_requests": 1,
+ "rows_affected": 9529,
+ "requests": {
+  "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163": [
+   {
+    "source_file": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/6_2_2026-7_2_2026-University of Minnesota MN PD (Twin Cities)-Network-Audit.csv",
+    "request_slug": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163",
+    "file_name": "6_2_2026-7_2_2026-University of Minnesota MN PD (Twin Cities)-Network-Audit.csv",
+    "current_owner": null,
+    "foia_url": "https://www.muckrock.com/foi/minneapolis-1607/flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/",
+    "rows": 5714,
+    "first_search": "2026-06-02",
+    "last_search": "2026-07-02",
+    "searching_agencies": 73,
+    "question": "Which agency's CAMERAS were searched - the department that released this log? Not the agency that ran the searches."
+   },
+   {
+    "source_file": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/5_2_2026-6_1_2026-University of Minnesota MN PD (Twin Cities)-Network-Audit.csv",
+    "request_slug": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163",
+    "file_name": "5_2_2026-6_1_2026-University of Minnesota MN PD (Twin Cities)-Network-Audit.csv",
+    "current_owner": null,
+    "foia_url": "https://www.muckrock.com/foi/minneapolis-1607/flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/",
+    "rows": 3333,
+    "first_search": "2026-05-02",
+    "last_search": "2026-06-02",
+    "searching_agencies": 37,
+    "question": "Which agency's CAMERAS were searched - the department that released this log? Not the agency that ran the searches."
+   },
+   {
+    "source_file": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/5_1_2026-6_1_2026-University of Minnesota MN PD (Twin Cities)-Audit_Redacted.csv",
+    "request_slug": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163",
+    "file_name": "5_1_2026-6_1_2026-University of Minnesota MN PD (Twin Cities)-Audit_Redacted.csv",
+    "current_owner": null,
+    "foia_url": "https://www.muckrock.com/foi/minneapolis-1607/flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/",
+    "rows": 286,
+    "first_search": "2026-05-01",
+    "last_search": "2026-06-01",
+    "searching_agencies": 1,
+    "question": "Which agency's CAMERAS were searched - the department that released this log? Not the agency that ran the searches."
+   },
+   {
+    "source_file": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/6_2_2026-7_2_2026-University of Minnesota MN PD (Twin Cities)-Audit_redacted.csv",
+    "request_slug": "flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163",
+    "file_name": "6_2_2026-7_2_2026-University of Minnesota MN PD (Twin Cities)-Audit_redacted.csv",
+    "current_owner": null,
+    "foia_url": "https://www.muckrock.com/foi/minneapolis-1607/flock-safety-contract-information-communication-records-and-access-logs-university-of-minnesota-police-department-212163/",
+    "rows": 196,
+    "first_search": "2026-06-02",
+    "last_search": "2026-07-02",
+    "searching_agencies": 1,
+    "question": "Which agency's CAMERAS were searched - the department that released this log? Not the agency that ran the searches."
+   }
+  ]
+ }
+}
