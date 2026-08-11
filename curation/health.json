@@ -1,8 +1,8 @@
 {
  "ok": false,
- "finished_at": "2026-08-10T04:28:57Z",
+ "finished_at": "2026-08-11T05:19:44Z",
  "published": false,
- "failed_stage": "signal pairs",
- "detail": "  File \"/srv/apps/build_signal_pairs.py\", line 107, in main\n          con.execute(\"\"\"\n      _duckdb.OutOfMemoryException: Out of Memory Error: could not allocate block of size 256.0 KiB (858.3 MiB/858.3 MiB used)\n      \n      Possible solutions:\n      * Reducing the number of threads (SET threads=X)\n      * Disabling insertion-order preservation (SET preserve_insertion_order=false)\n      * Increas",
- "stages_completed": 5
+ "failed_stage": "curation gate",
+ "detail": "needs review before publishing: 4 source file(s) in 1 request(s) unresolved, 9,529 rows",
+ "stages_completed": 17
 }
