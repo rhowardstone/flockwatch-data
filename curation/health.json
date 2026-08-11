@@ -1,8 +1,8 @@
 {
- "ok": false,
- "finished_at": "2026-08-11T10:14:07Z",
- "published": false,
- "failed_stage": "curation gate",
- "detail": "needs review before publishing: 4 source file(s) in 1 request(s) unresolved, 9,529 rows",
- "stages_completed": 17
+ "ok": true,
+ "finished_at": "2026-08-11T11:07:45Z",
+ "published": true,
+ "failed_stage": null,
+ "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
+ "stages_completed": 18
 }
