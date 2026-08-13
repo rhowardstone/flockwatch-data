@@ -1,8 +1,8 @@
 {
  "ok": false,
- "finished_at": "2026-08-12T09:59:17Z",
+ "finished_at": "2026-08-13T04:39:31Z",
  "published": false,
- "failed_stage": "curation gate",
- "detail": "needs review before publishing: 15 source file(s) in 2 request(s) unresolved, 579,591 rows",
- "stages_completed": 19
+ "failed_stage": "openapi.json",
+ "detail": "  OK  400 rejected   reason_norm__date\n        OK  400 rejected   reason_norm__glob\n        OK  400 rejected   reason_norm__like\n        OK  400 rejected   reason_norm__regexp\n        OK  400 rejected   reason_norm__search\n      examples in the spec do not work:\n        the spec documents __day but the live service answered 400 on reason_norm - the deployed code is behind the repo\n        the spec",
+ "stages_completed": 17
 }
