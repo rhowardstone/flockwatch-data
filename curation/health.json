@@ -1,6 +1,6 @@
 {
  "ok": false,
- "finished_at": "2026-08-14T04:49:52Z",
+ "finished_at": "2026-08-14T10:10:19Z",
  "published": false,
  "failed_stage": "curation gate",
  "detail": "needs review before publishing: 9 source file(s) in 1 request(s) unresolved, 6,469 rows",
