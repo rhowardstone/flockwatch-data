@@ -1,8 +1,8 @@
 {
  "ok": false,
- "finished_at": "2026-08-14T10:10:19Z",
+ "finished_at": "2026-08-15T04:33:40Z",
  "published": false,
- "failed_stage": "curation gate",
- "detail": "needs review before publishing: 9 source file(s) in 1 request(s) unresolved, 6,469 rows",
- "stages_completed": 20
+ "failed_stage": "sharing graph",
+ "detail": "[04:33:19] reading camera owners from the parquet\n      [04:33:19]   120,610,960/122,268,011 rows carry an owner (98.6%)\n      [04:33:20]   3 source file(s) carry more than one owner - taking the one on the most rows, and reporting rather than hiding it\n      [04:33:20] edges\n      [04:33:39]   128,081 edges in 19s\n        edge weights sum to 120,385,636 against 120,371,216 rows (+14,420) - the ed",
+ "stages_completed": 10
 }
