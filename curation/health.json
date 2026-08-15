@@ -1,8 +1,8 @@
 {
- "ok": true,
- "finished_at": "2026-08-15T10:13:14Z",
- "published": true,
- "failed_stage": null,
- "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
- "stages_completed": 22
+ "ok": false,
+ "finished_at": "2026-08-15T23:05:42Z",
+ "published": false,
+ "failed_stage": "plate token map",
+ "detail": "FW_PLATE_KEY is not set. Refusing to build a token map without it: an unkeyed digest of a plate is not a token, it is a plate anyone can look up.\n      \n      [exit 1]",
+ "stages_completed": 6
 }
