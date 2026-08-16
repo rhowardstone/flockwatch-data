@@ -1,8 +1,8 @@
 {
- "ok": false,
- "finished_at": "2026-08-16T00:12:46Z",
- "published": false,
- "failed_stage": "agency queue",
- "detail": "agencies=0, expected >= 0",
- "stages_completed": 21
+ "ok": true,
+ "finished_at": "2026-08-16T01:24:18Z",
+ "published": true,
+ "failed_stage": null,
+ "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
+ "stages_completed": 23
 }
