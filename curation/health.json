@@ -1,8 +1,8 @@
 {
- "ok": false,
- "finished_at": "2026-08-17T09:55:40Z",
- "published": false,
- "failed_stage": "ingest new releases",
- "detail": "    n_new_moments = con.execute(f\"\"\"\n                          ^^^^^^^^^^^^^^^^\n      _duckdb.OutOfMemoryException: Out of Memory Error: could not allocate block of size 256.0 KiB (953.6 MiB/953.6 MiB used)\n      \n      Possible solutions:\n      * Reducing the number of threads (SET threads=X)\n      * Disabling insertion-order preservation (SET preserve_insertion_order=false)\n      * Increasing th",
- "stages_completed": 3
+ "ok": true,
+ "finished_at": "2026-08-18T05:07:38Z",
+ "published": true,
+ "failed_stage": null,
+ "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
+ "stages_completed": 23
 }
