@@ -1,8 +1,8 @@
 {
  "ok": false,
- "finished_at": "2026-09-04T04:27:47Z",
+ "finished_at": "2026-09-04T09:50:55Z",
  "published": false,
  "failed_stage": "ingest new releases",
- "detail": "  File \"/srv/apps/ingest_incremental.py\", line 836, in ingest_batch\n          con.execute(f\"COPY (SELECT * FROM merged) TO '{TMP}' \"\n      _duckdb.OutOfMemoryException: Out of Memory Error: failed to allocate data of size 12.0 MiB (943.0 MiB/953.6 MiB used)\n      \n      Possible solutions:\n      * Reducing the number of threads (SET threads=X)\n      * Disabling insertion-order preservation (SET pr",
+ "detail": "  File \"/srv/apps/ingest_incremental.py\", line 836, in ingest_batch\n          con.execute(f\"COPY (SELECT * FROM merged) TO '{TMP}' \"\n      _duckdb.OutOfMemoryException: Out of Memory Error: failed to allocate data of size 12.0 MiB (946.0 MiB/953.6 MiB used)\n      \n      Possible solutions:\n      * Reducing the number of threads (SET threads=X)\n      * Disabling insertion-order preservation (SET pr",
  "stages_completed": 3
 }
