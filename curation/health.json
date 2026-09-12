@@ -1,8 +1,8 @@
 {
- "ok": false,
- "finished_at": "2026-09-11T09:51:37Z",
- "published": false,
- "failed_stage": "ingest new releases",
- "detail": "  File \"/srv/apps/ingest_incremental.py\", line 836, in ingest_batch\n          con.execute(f\"COPY (SELECT * FROM merged) TO '{TMP}' \"\n      _duckdb.OutOfMemoryException: Out of Memory Error: failed to pin block of size 256.0 KiB (953.6 MiB/953.6 MiB used)\n      \n      Possible solutions:\n      * Reducing the number of threads (SET threads=X)\n      * Disabling insertion-order preservation (SET prese",
- "stages_completed": 3
+ "ok": true,
+ "finished_at": "2026-09-12T00:48:40Z",
+ "published": true,
+ "failed_stage": null,
+ "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
+ "stages_completed": 23
 }
