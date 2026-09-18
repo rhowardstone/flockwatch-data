@@ -1,0 +1,73 @@
+{
+ "generated_at": "2026-09-18T10:42:11Z",
+ "unclassified_agencies": 5,
+ "searches_affected": 949,
+ "allowed_answers": [
+  "<two-letter state code>",
+  "Federal",
+  "CBP",
+  "multistate",
+  "Inactive",
+  "Flock",
+  "Flock-Demo",
+  "USVI"
+ ],
+ "note": "Searching agencies whose name carries no state and which nobody has classified. Their searches are currently excluded from every local-time measure, because a local hour needs a timezone. Answer with a two-letter state code where the agency plainly sits in one state, or one of the existing categories. Do not invent a state for a body that spans several - that is what `multistate` is for.",
+ "agencies": [
+  {
+   "agency": "[DEACTIVATED] - NESPIN - New England State Police Information Network",
+   "searches": 488,
+   "first_seen": "2024-10-01",
+   "last_seen": "2024-12-31",
+   "searched_into_states": [
+    "GA"
+   ],
+   "camera_owners_reached": 1,
+   "hint": "This agency only ever searched cameras in GA"
+  },
+  {
+   "agency": "The City of Miami Police Department",
+   "searches": 363,
+   "first_seen": "2024-10-01",
+   "last_seen": "2024-12-31",
+   "searched_into_states": [
+    "GA"
+   ],
+   "camera_owners_reached": 1,
+   "hint": "This agency only ever searched cameras in GA"
+  },
+  {
+   "agency": "Corinth City Marshal [inactive]",
+   "searches": 53,
+   "first_seen": "2024-10-01",
+   "last_seen": "2024-12-18",
+   "searched_into_states": [
+    "GA"
+   ],
+   "camera_owners_reached": 1,
+   "hint": "This agency only ever searched cameras in GA"
+  },
+  {
+   "agency": "[DEACTIVATED] - Fort Collins Police Services (FCPS)",
+   "searches": 44,
+   "first_seen": "2024-10-20",
+   "last_seen": "2024-12-31",
+   "searched_into_states": [
+    "GA"
+   ],
+   "camera_owners_reached": 1,
+   "hint": "This agency only ever searched cameras in GA"
+  },
+  {
+   "agency": "[DEACTIVATED] - do not use",
+   "searches": 1,
+   "first_seen": "2024-10-19",
+   "last_seen": "2024-10-19",
+   "searched_into_states": [
+    "GA"
+   ],
+   "camera_owners_reached": 1,
+   "hint": "This agency only ever searched cameras in GA"
+  }
+ ]
+}
