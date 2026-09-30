@@ -1,8 +1,8 @@
 {
- "ok": false,
- "finished_at": "2026-09-29T11:18:17Z",
- "published": false,
- "failed_stage": "signal pairs",
- "detail": "[10:07:41] officer/plate pairs\n      [10:08:44]   16,160 pairs before the solo test\n      \n      [killed by signal 15]",
- "stages_completed": 10
+ "ok": true,
+ "finished_at": "2026-09-30T05:22:42Z",
+ "published": true,
+ "failed_stage": null,
+ "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
+ "stages_completed": 25
 }
