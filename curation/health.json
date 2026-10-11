@@ -1,8 +1,8 @@
 {
  "ok": false,
- "finished_at": "2026-10-11T05:46:17Z",
+ "finished_at": "2026-10-11T10:09:07Z",
  "published": false,
  "failed_stage": "sharing graph",
- "detail": "[05:46:07] reading camera owners from the parquet\n      [05:46:07]   147,558,833/149,925,713 rows carry an owner (98.4%)\n      [05:46:09] edges\n      [05:46:17]   witness artefact misses 22 release(s) holding 3,762,726 corpus rows (2.51%)\n        REFUSING --from-witness: 2.51% of the corpus is in releases the witness pass has not read (limit 2.0%). Re-run tools/witness_pass.py and tools/build_witn",
+ "detail": "[10:08:57] reading camera owners from the parquet\n      [10:08:57]   147,558,833/149,925,713 rows carry an owner (98.4%)\n      [10:08:59] edges\n      [10:09:07]   witness artefact misses 22 release(s) holding 3,762,726 corpus rows (2.51%)\n        REFUSING --from-witness: 2.51% of the corpus is in releases the witness pass has not read (limit 2.0%). Re-run tools/witness_pass.py and tools/build_witn",
  "stages_completed": 12
 }
