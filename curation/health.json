@@ -1,8 +1,8 @@
 {
- "ok": true,
- "finished_at": "2026-10-17T18:05:34Z",
- "published": true,
- "failed_stage": null,
- "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
- "stages_completed": 25
+ "ok": false,
+ "finished_at": "2026-10-18T05:18:05Z",
+ "published": false,
+ "failed_stage": "bundles",
+ "detail": "[04:47:51] build stamp\n      [04:48:47]   a126bd64b28d6361... over 150,480,202 rows in 3,874 file(s) (56s)\n      [04:48:47] headline\n      [04:49:05]   150,480,202 searches, 84.7% with no case number\n      [04:49:05]   plates: 13.0% released, 44.6% redacted, 42.5% blank\n      [04:49:05] reasons\n      [04:49:14]   case-number split per reason\n      [04:49:26]   1,991,402 distinct reasons; top 20 co",
+ "stages_completed": 11
 }
