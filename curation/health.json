@@ -1,8 +1,8 @@
 {
- "ok": true,
- "finished_at": "2026-10-22T10:54:30Z",
- "published": true,
- "failed_stage": null,
- "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
- "stages_completed": 25
+ "ok": false,
+ "finished_at": "2026-10-23T04:51:53Z",
+ "published": false,
+ "failed_stage": "citations resolve",
+ "detail": "12 of 12 sampled citations do not resolve: 403 https://www.muckrock.com/foi/everett-251/flock-safety-search-audits-network-sharing-and-general-order-ever",
+ "stages_completed": 18
 }
