@@ -1,8 +1,8 @@
 {
  "ok": false,
- "finished_at": "2026-10-23T04:51:53Z",
+ "finished_at": "2026-10-23T10:19:46Z",
  "published": false,
  "failed_stage": "citations resolve",
- "detail": "12 of 12 sampled citations do not resolve: 403 https://www.muckrock.com/foi/everett-251/flock-safety-search-audits-network-sharing-and-general-order-ever",
+ "detail": "12 of 12 sampled citations do not resolve: 403 https://www.muckrock.com/foi/auburn-8285/wa-alpr-a-external-access-audit-logs-14-auburn-police-department-",
  "stages_completed": 18
 }
