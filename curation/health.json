@@ -1,8 +1,8 @@
 {
- "ok": false,
- "finished_at": "2026-10-24T10:11:21Z",
- "published": false,
- "failed_stage": "citations resolve",
- "detail": "12 of 12 sampled citations do not resolve: 403 https://www.muckrock.com/foi/yakima-8574/flock-safety-search-audits-network-sharing-and-general-order-1928",
- "stages_completed": 18
+ "ok": true,
+ "finished_at": "2026-10-24T12:24:19Z",
+ "published": true,
+ "failed_stage": null,
+ "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
+ "stages_completed": 25
 }
