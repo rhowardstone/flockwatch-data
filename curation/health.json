@@ -1,8 +1,8 @@
 {
  "ok": false,
- "finished_at": "2026-10-23T10:19:46Z",
+ "finished_at": "2026-10-24T04:47:49Z",
  "published": false,
  "failed_stage": "citations resolve",
- "detail": "12 of 12 sampled citations do not resolve: 403 https://www.muckrock.com/foi/auburn-8285/wa-alpr-a-external-access-audit-logs-14-auburn-police-department-",
+ "detail": "12 of 12 sampled citations do not resolve: 403 https://www.muckrock.com/foi/rogers-9683/received-alpr-data-requests-200899/",
  "stages_completed": 18
 }
