@@ -1,8 +1,8 @@
 {
- "ok": true,
- "finished_at": "2026-10-27T10:29:32Z",
- "published": true,
- "failed_stage": null,
- "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
- "stages_completed": 25
+ "ok": false,
+ "finished_at": "2026-10-28T06:45:47Z",
+ "published": false,
+ "failed_stage": "page data resolves",
+ "detail": "    month               79 rows\n          plate_status         4 rows\n          search_type         17 rows\n          officer        196,077 rows\n          stats.json             ok  searches=153,809,303\n          agencies.json          ok\n          sharing_graph.json     ok\n          monthly_reasons.json   ok\n        PAGE DATA BROKEN:\n          reason_norm: /api/pivot/reason_norm.json -> Incomple",
+ "stages_completed": 22
 }
