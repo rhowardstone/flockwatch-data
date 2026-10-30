@@ -1,6 +1,6 @@
 {
  "ok": true,
- "finished_at": "2026-10-30T05:04:14Z",
+ "finished_at": "2026-10-30T10:30:00Z",
  "published": true,
  "failed_stage": null,
  "detail": "all 8 pages served, consistent, no stale figures, no embedded bundle older than the corpus",
